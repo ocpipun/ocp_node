@@ -1,0 +1,30 @@
+{
+  "name": "onur-caglar-pipun",
+  "version": "1.0.0",
+  "description": "Bu bir deneme projesidir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "murat": "echo 'Benim adım Murat'",
+    "pipun": "echo 'Benim adım Pipun",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Onur Çağlar Pipun",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^7.6.3",
+    "nodemailer": "^6.9.7",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ocpipun/ocp_node.git"
+  }
+}
